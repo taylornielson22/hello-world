@@ -1,9 +1,10 @@
 # hello-world
-Module 4
+## __Module 4___
 
-Reasons to learn to code!
-1.
-2.
-3.
-4.
-5.
+### Reasons to learn to code!
+_You will see imptovements in these 5 categories
+1. Creativity
+2. Self-Reliance
+3. Abstract Thinking 
+4. Memory
+5. Patience
