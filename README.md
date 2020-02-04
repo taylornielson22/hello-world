@@ -1,6 +1,6 @@
 # hello-world
-## __Module 4___
-
+## __Module 4__
+---------------------------------------------------
 ### Reasons to learn to code!
 _You will see improvements in these 5 categories_
 1. Creativity
